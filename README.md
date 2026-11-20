@@ -138,4 +138,4 @@ Password for the [kibana_system] user successfully reset.
 - Visit http://[server-ip]:9200 
 - Put in my newly created username and password and I see this
 
-![auth-success](image2.png)
+![auth-success](screenshots/image2.png)
