@@ -147,7 +147,7 @@ Password for the [kibana_system] user successfully reset.
 At http://[server-ip]:5601 Kibana greets us.
 - Logged in using the elastic superuser
 
-![alt text](screensots/image3.png)
+![Got kibana](screenshots/image3.png)
 
 - Once I login I add the following integrations
   
