@@ -139,3 +139,19 @@ Password for the [kibana_system] user successfully reset.
 - Put in my newly created username and password and I see this
 
 ![auth-success](screenshots/image2.png)
+
+---
+
+### Kibana is now running
+
+At http://[server-ip]:5601 Kibana greets us.
+- Logged in using the elastic superuser
+
+![alt text](screensots/image3.png)
+
+- Once I login I add the following integrations
+  
+  1. System
+  2. Windows
+  3. Custom Windows Event Logs / Sysmon
+  4. Elastic Defend
